@@ -32,5 +32,8 @@ https://matplotlib.org/stable/
 https://pandas.pydata.org/docs/index.html
 https://stackoverflow.com/
 https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/plate-carree.htm
-
+https://www.semanticscholar.org/paper/Differential-distribution-and-ecology-of-and-in-a-Partensky-Blanchot/5638b562e1c10b924d1303603a39ae3b8e6269a7
+https://www.pnas.org/doi/10.1073/pnas.1307701110
+https://umr-entropie.ird.nc/biogeochimie/english/flupac/flupac/descr_flupac.htm
+https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1307701110&file=pnas.201307701si.pdf
 https://chat.openai.com/
