@@ -24,3 +24,13 @@ Research Question: What is the relationship between [NO3 + NO2] and Phytoplankto
 HA: Expect to see Synechococcus has more dependence on [NO3 + NO2] than Prochlorococcus5
 
 H0: Neither has dependence on [NO3 + NO2]
+
+
+
+References: 
+https://matplotlib.org/stable/
+https://pandas.pydata.org/docs/index.html
+https://stackoverflow.com/
+https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/plate-carree.htm
+
+https://chat.openai.com/
